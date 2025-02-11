@@ -140,10 +140,12 @@ o 10px 100px rgba(0,0,0,0.5);
 }
 
 p{
+    position: absolute;
     font-family: "DynaPuff",cursive;
     margin: 10px;
-    font-size: x-small;
+    font-size: small;
     color: #333;
+    bottom: 100px;
 }
 
 .name{
