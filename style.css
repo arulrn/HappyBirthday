@@ -141,7 +141,7 @@ o 10px 100px rgba(0,0,0,0.5);
 
 p{
     font-family: "DynaPuff",cursive;
-    margin: 10px;
+    margin: px;
     font-size: small;
     color: #333;
 }
@@ -164,5 +164,5 @@ p{
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    p{font-size: 0.9rem;
-     }
+    p{
+    }
