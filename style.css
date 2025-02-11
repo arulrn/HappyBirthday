@@ -142,7 +142,7 @@ o 10px 100px rgba(0,0,0,0.5);
 p{
     font-family: "DynaPuff",cursive;
     margin: px;
-    font-size: small;
+    font-size: x-small;
     color: #333;
 }
 
@@ -161,8 +161,3 @@ p{
     outline-color: #333;
     outline-style: dotted;
 }
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    p{
-    }
