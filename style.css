@@ -3,7 +3,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #239ac2;
+    background-image: url(images/bg.PNG);
 }
 
 .birthdayCard{
@@ -43,7 +43,7 @@ o 10px 100px rgba(0,0,0,0.5);
     transition: 0.6s;   
 }
 .happy{
-    font-family: Tahoma, sans-serif;
+  font-family: "Yellowtail", serif;
   text-align: center;
   margin: 30px;
   background-image: linear-gradient(120deg, #ffd856 0%, #f98c6e 100%);
@@ -140,9 +140,9 @@ o 10px 100px rgba(0,0,0,0.5);
 }
 
 p{
-    font-family: "Brush Script MT",cursive;
+    font-family: "DynaPuff",cursive;
     margin: 10px;
-    font-size: x-small;
+    font-size: small;
     color: #333;
 }
 
@@ -154,7 +154,7 @@ p{
 }
 
 .back{
-    font-family: Tahoma, sans-serif;
+    font-family: "Yellowtail", serif;
     color:#333 ;
     text-align: center;
     margin: 30px;
