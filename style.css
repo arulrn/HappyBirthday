@@ -161,3 +161,6 @@ p{
     outline-color: #333;
     outline-style: dotted;
 }
+
+@media only screen and (max-width: 600px) {
+}
